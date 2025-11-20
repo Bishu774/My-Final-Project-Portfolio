@@ -1,5 +1,6 @@
 # CS50 Mail
-#### Video Demo: https://youtu.be/1Dme9LivOiw
+#### “This project can be viewed in the video demonstration (link below), which is recommended for admissions committees.”
+Video Demo: https://youtu.be/1Dme9LivOiw
 #### Description:
 **CS50 Mail** is a fully functional web-based email client built using HTML, CSS, JavaScript, and Python (Flask).You can do three main tasks here. It simulates the experience of using an actual email platform and includes features such as inbox and sent view, email reading and composing emails and replying to received messages. This project is part of the final submission for the CS50x course and represents the culmination of several weeks of foundational work in computer science.
 
